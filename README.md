@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.DEV one word domains]
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.dev           | available | 70       | 38%    | 3      |           |         |         |
+| aaa.dev           | premium   | 70       | 38%    | 3      |           |         |         |
 | AAAA.dev          | premium   | 68       | 84%    | 4      |           |         |         |
 | aah.dev           | premium   | 114      | 92%    | 3      |           |         |         |
 | aak.dev           | premium   | 68       | 32%    | 3      |           |         |         |
