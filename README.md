@@ -21,7 +21,6 @@ If you want to search & filters the complete database of [.DEV one word domains]
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.dev           | premium   | 70       | 38%    | 3      |           |         |         |
 | AAAA.dev          | premium   | 68       | 84%    | 4      |           |         |         |
 | aah.dev           | premium   | 114      | 92%    | 3      |           |         |         |
 | aak.dev           | premium   | 68       | 32%    | 3      |           |         |         |
@@ -47,10 +46,11 @@ If you want to search & filters the complete database of [.DEV one word domains]
 | abbotcy.dev       | available | 56       | 72%    | 7      |           |         |         |
 | abbreviated.dev   | available | 56       | 76%    | 11     |           |         |         |
 | abbreviater.dev   | available | 56       | 72%    | 11     |           |         |         |
-| abc.dev           | premium   | 102      | 41%    | 3      |           |         |         |
+| abc.dev           | premium   | 102      | 39%    | 3      |           |         |         |
 | abcconjecture.dev | available | 56       | 4%     | 14     |           |         |         |
 | ABCexporter.dev   | available | 43       | 72%    | 12     |           |         |         |
 | ABCguide.dev      | available | 48       | 72%    | 9      |           |         |         |
+| ABCIslands.dev    | available | 57       | 72%    | 11     |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/dev-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.DEV one word domains]
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
