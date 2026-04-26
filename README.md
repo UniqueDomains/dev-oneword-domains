@@ -1,22 +1,22 @@
-# Available .DEV One-Word Domains (64,900)
+# Available .DEV One-Word Domains (65,173)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-64%2C900%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-65%2C173%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .dev one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **64,900 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **65,173 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 64,900 domains
+**Public extract:** 1,000 rows · **Live catalog:** 65,173 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/dev`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .DEV one-word domain c
 
 ### Files
 
-- `dev.csv` — public CSV extract (10,000 rows)
-- `dev.json` — public JSON extract (10,000 rows)
+- `dev.csv` — public CSV extract (1,000 rows)
+- `dev.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
-| glazing.dev          | available | $9.99     | $22.99        | 62             | 88     | 7      | name.com               |
-| animation.dev        | resell    | $811.25   | $811.25       | 64             | 84     | 9      | Namecheap Inc.         |
-| beans.dev            | premium   | $198.75   | $198.75       | 74             | 88     | 5      | name.com               |
-| absolution.dev       | available | $9.99     | $19.99        | 62             | 88     | 10     | name.com               |
-| squadron.dev         | resell    | —         | —             | 78             | 92     | 8      | Sav.com, LLC           |
-| assetmanagement.dev  | premium   | $811.25   | $811.25       | 68             | 88     | 16     | name.com               |
-| powersupply.dev      | available | $9.99     | $22.99        | 54             | 88     | 12     | name.com               |
-| multiverse.dev       | resell    | —         | —             | 62             | 92     | 10     | GoDaddy.com, LLC       |
-| entertainment.dev    | premium   | $411.25   | $411.25       | 56             | 88     | 13     | name.com               |
-| activewear.dev       | available | $9.99     | $19.99        | 68             | 84     | 10     | name.com               |
-| viz.dev              | resell    | —         | —             | 96             | 88     | 3      | Go France Domains, LLC |
-| pools.dev            | premium   | $198.75   | $198.75       | —              | 88     | 5      | name.com               |
-| industrialdesign.dev | available | $9.99     | $22.99        | 56             | 84     | 17     | name.com               |
-| pinnacle.dev         | resell    | —         | —             | 88             | 88     | 8      | Sav.com, LLC - 39      |
-| internetofthings.dev | premium   | $811.25   | $811.25       | 66             | 84     | 18     | name.com               |
-| insurancepolicy.dev  | available | $9.99     | $22.99        | 58             | 80     | 16     | name.com               |
-| teak.dev             | resell    | —         | —             | 80             | 88     | 4      | Sav.com, LLC           |
-| nails.dev            | premium   | $111.25   | $111.25       | 62             | 84     | 5      | name.com               |
-| crosstraining.dev    | available | $9.99     | $22.99        | 68             | 76     | 14     | name.com               |
-| Lauretta.dev         | resell    | —         | —             | 56             | 88     | 8      | Namecheap Inc.         |
+| domain                 | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                   |
+| ---------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------- |
+| dairyfarming.dev       | available | $9.99      | $22.99        | 70             | 72     | 13     | name.com                    |
+| whitehat.dev           | resell    | —          | —             | —              | 84     | 9      | Porkbun LLC                 |
+| beans.dev              | premium   | $198.75    | $198.75       | 74             | 88     | 5      | name.com                    |
+| bakedgoods.dev         | available | $9.99      | $19.99        | 46             | 28     | 11     | name.com                    |
+| sandbar.dev            | resell    | —          | —             | 56             | 80     | 7      | Uniregistrar Corp           |
+| comedy.dev             | premium   | $111.25    | $111.25       | 76             | 80     | 6      | name.com                    |
+| liabilityinsurance.dev | available | $9.99      | $22.99        | 54             | 24     | 19     | name.com                    |
+| nippy.dev              | resell    | —          | —             | 60             | 76     | 5      | Sav.com, LLC                |
+| canon.dev              | premium   | $23,675.79 | —             | 70             | 68     | 5      | 1API GmbH                   |
+| ointments.dev          | available | $9.99      | $22.99        | —              | 16     | 9      | name.com                    |
+| biometrics.dev         | resell    | —          | —             | 64             | 68     | 10     | Sav.com, LLC                |
+| photography.dev        | premium   | $411.25    | $411.25       | —              | 31     | 11     | name.com                    |
+| instyle.dev            | available | $14.99     | —             | 78             | 12     | 8      | name.com                    |
+| sites.dev              | resell    | —          | —             | 53             | 26     | 5      | Squarespace Domains II LLC. |
+| infrared.dev           | premium   | $111.25    | —             | 66             | 25     | 9      | name.com                    |
+| ontheroad.dev          | available | $14.99     | —             | 50             | 12     | 11     | name.com                    |
+| attention.dev          | resell    | —          | —             | 76             | 25     | 9      | Namecheap Inc.              |
+| deeplearning.dev       | premium   | $811.25    | —             | 74             | 23     | 13     | name.com                    |
+| speculation.dev        | available | $14.99     | —             | 62             | 11     | 11     | name.com                    |
+| inhouse.dev            | resell    | —          | —             | 70             | 23     | 8      | Porkbun LLC                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract           | Unique Domains                                   |
-| ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 64,900 live domains                              |
-| Static CSV / JSON        | live search and daily refresh                    |
-| Basic exported fields    | deeper price, demand, risk, and workflow context |
-| No persistence           | Radar, saved search, and alerts                  |
-| No founder workflow      | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 1,000-row public sample | 65,173 live domains                              |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEV One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEV One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
