@@ -80,7 +80,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3ea50559-e220-42e4-b157-b20bcf442f71,stormed.dev,available,14.99,,50,3,7,name.com,,
 3efdbe2b-c3a8-4e4c-b01d-9cd759993e62,monopolizing.dev,available,14.99,,40,1,12,name.com,,
 3f58a091-0d39-4b2a-888f-7a434d1949a2,goberserk.dev,available,14.99,,68,1,10,name.com,,
-3fb03dcc-4515-4511-b10d-836cc77e9282,attention.dev,resell,,,76,25,9,Namecheap Inc.,15/02/2024 21:32,15/02/2027 21:32
+3fb03dcc-4515-4511-b10d-836cc77e9282,attention.dev,resell,,,76,24,9,Namecheap Inc.,15/02/2024 21:32,15/02/2027 21:32
 419069d8-ec44-4c91-9fc6-94a5270f2731,waitout.dev,available,14.99,,63,1,8,name.com,,
 449ba51e-ba91-4e62-87ae-9fb2e0aa3bcf,keepunder.dev,available,14.99,,66,1,10,name.com,,
 44d922e2-264f-46f2-ba6c-b12db35922c7,mouthed.dev,available,14.99,,63,1,7,name.com,,
@@ -767,7 +767,7 @@ b2a8990f-2d12-4d3e-9101-27ec01f349cd,taxboost.dev,premium,,,54,72,9,,,
 d4a0da46-8ac2-44c8-82d0-36a4a9ecba3b,curdler.dev,premium,,,62,72,7,,,
 39c014d0-1a4b-47de-8302-3a8c4f18e88b,parafle.dev,premium,,,58,72,7,,,
 80f42951-110d-45e9-816c-520171560330,girlpower.dev,premium,,,62,88,10,,,
-c7228e4c-a0e8-4293-9013-e909fafbdbc5,deepdown.dev,premium,,,61,3,9,,,
+c7228e4c-a0e8-4293-9013-e909fafbdbc5,deepdown.dev,premium,,,61,4,9,,,
 8501e2b2-870a-496f-9030-6c8f204cf8d5,newsstory.dev,premium,,,64,72,10,,,
 16c81c87-9400-4449-9f4f-b743a0176a45,cabincar.dev,premium,,,52,72,9,,,
 edd04cdc-db07-4ee4-8aaa-d9ec8057e876,replaying.dev,premium,,,62,72,9,,,
