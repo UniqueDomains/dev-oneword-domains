@@ -79,7 +79,7 @@ print(df.head())
 | incarnadine.dev | premium | —         | —             | 88             | 72     | 11     | —                                                         |
 | favourite.dev   | premium | —         | —             | 104            | 84     | 9      | —                                                         |
 | brit.dev        | premium | —         | —             | 90             | 84     | 4      | —                                                         |
-| feelings.dev    | premium | —         | —             | 80             | 12     | 8      | —                                                         |
+| feelings.dev    | premium | —         | —             | 80             | 14     | 8      | —                                                         |
 | cpr.dev         | premium | —         | —             | 84             | 88     | 3      | —                                                         |
 | chimney.dev     | resell  | —         | —             | 90             | 13     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
 | descend.dev     | premium | —         | —             | 94             | 5      | 7      | —                                                         |
