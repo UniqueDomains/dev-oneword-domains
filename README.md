@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .dev one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **65,271 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 65,271 domains · **Median ask:** $138.33 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 65,271 domains · **Median ask:** $83.76 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/dev`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/dev`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .DEV one-word domain c
 
 ### Files
 
-- `dev.csv` — public CSV extract (1,000 rows)
-- `dev.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `dev.csv`, public CSV extract (1,000 rows)
+- `dev.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status  | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------------- | ------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| paint.dev       | premium | —         | —             | 86             | 27     | 5      | —                                                         |
-| veggie.dev      | premium | $2,367.82 | —             | 82             | 14     | 6      | Sav.com, LLC                                              |
-| update.dev      | premium | —         | —             | 88             | 28     | 7      | —                                                         |
-| Audi.dev        | resell  | —         | —             | 86             | 70     | 4      | Gandi SAS                                                 |
-| supper.dev      | resell  | —         | —             | 80             | 13     | 6      | Dynadot LLC.                                              |
-| getready.dev    | resell  | —         | —             | 88             | 11     | 9      | Global Domains International, Inc. DBA DomainCostClub.com |
-| seventeen.dev   | resell  | —         | —             | 88             | 61     | 9      | GoDaddy.com, LLC                                          |
-| shouldcost.dev  | premium | —         | —             | 80             | 76     | 11     | —                                                         |
-| clamber.dev     | premium | —         | —             | 80             | 84     | 7      | —                                                         |
-| overhand.dev    | premium | —         | —             | 100            | 72     | 8      | —                                                         |
-| interwiki.dev   | premium | —         | —             | 90             | 72     | 9      | —                                                         |
-| surprize.dev    | premium | —         | —             | 86             | 88     | 8      | —                                                         |
-| bobsleigh.dev   | premium | —         | —             | 80             | 84     | 9      | —                                                         |
-| jobseeking.dev  | premium | —         | —             | 80             | 76     | 10     | —                                                         |
-| vodcast.dev     | premium | —         | —             | 80             | 80     | 7      | —                                                         |
-| incarnadine.dev | premium | —         | —             | 88             | 72     | 11     | —                                                         |
-| favourite.dev   | premium | —         | —             | 104            | 84     | 9      | —                                                         |
-| brit.dev        | premium | —         | —             | 90             | 84     | 4      | —                                                         |
-| feelings.dev    | premium | —         | —             | 80             | 14     | 8      | —                                                         |
-| cpr.dev         | premium | —         | —             | 84             | 88     | 3      | —                                                         |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| inon.dev      | available | $14.99    | —             | medium         | low    | 5      | name.com                                                  |
+| nippy.dev     | resell    | —         | —             | medium         | high   | 5      | Sav.com, LLC                                              |
+| lie.dev       | premium   | $198.75   | —             | medium         | low    | 3      | name.com                                                  |
+| seemed.dev    | available | $14.99    | —             | low            | low    | 6      | name.com                                                  |
+| unify.dev     | resell    | —         | —             | high           | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| Jews.dev      | premium   | $57.82    | $57.82        | medium         | low    | 4      | namesilo                                                  |
+| assuch.dev    | available | $14.99    | —             | medium         | low    | 7      | name.com                                                  |
+| chimney.dev   | resell    | —         | —             | high           | low    | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
+| week.dev      | premium   | $198.75   | —             | high           | low    | 4      | name.com                                                  |
+| beborn.dev    | available | $14.99    | $14.99        | medium         | low    | 7      | namesilo                                                  |
+| quartet.dev   | resell    | —         | —             | medium         | low    | 7      | Sav.com, LLC                                              |
+| beans.dev     | premium   | $198.75   | $198.75       | high           | high   | 5      | name.com                                                  |
+| boarded.dev   | available | $14.99    | $14.99        | medium         | low    | 7      | namesilo                                                  |
+| sandbar.dev   | resell    | —         | —             | medium         | high   | 7      | Uniregistrar Corp                                         |
+| enemy.dev     | premium   | $106.80   | $106.80       | high           | low    | 5      | namesilo                                                  |
+| descend.dev   | available | $14.99    | $14.99        | high           | low    | 7      | namesilo                                                  |
+| positives.dev | resell    | —         | —             | low            | low    | 9      | Namecheap Inc.                                            |
+| parks.dev     | premium   | $198.75   | —             | medium         | low    | 5      | name.com                                                  |
+| howfar.dev    | available | $14.99    | —             | medium         | low    | 7      | name.com                                                  |
+| whitehat.dev  | resell    | —         | —             | high           | high   | 9      | Porkbun LLC                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely .dev domain names, which makes the extension itself part of the positioning. Many entries read like product, tool, or developer-brand candidates, while others are broader dictionary words or multi-word phrases. Sample names such as veggie.dev, supper.dev, interwiki.dev, and bobsleigh.dev show a mix of clear words, niche references, and less obvious branding angles. The median ask is 138.33, so price discipline matters less than fit and renewal tolerance. When comparing these domains, focus on whether the word is easy to spell, easy to say aloud, and strong enough to carry a technical or product-facing identity without confusion.
+This set of one-word .dev domain names spans everyday English words—christmas.dev, sorry.dev, come.dev, bingo.dev, nothing.dev, easy.dev, pure.dev, special.dev, fancy.dev, and present.dev among them. With a median asking price near $84 across 65,271 domains, these names are largely accessible without heavy negotiation. Their single-word structure and .dev extension make them well suited to developer tools, SaaS products, and technical brands seeking a short, ownable identity.
 
-- All domains in this selection use the .dev extension
-- Median ask across the set is 138.33
-- Mix of dictionary words, phrases, and niche terms
-- Check spelling risk on names like surprize.dev
+- Single-word .dev names: easy to spell, say, and remember
+- Median asking price near $84 across 65,271 domains
+- Developer-focused extension signals technical, builder-friendly brands
+- Everyday words like easy, pure, and bingo reduce trademark risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEV One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEV One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
