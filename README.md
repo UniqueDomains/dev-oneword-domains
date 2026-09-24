@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .dev one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 73,424 domains · **Median ask:** $39.90 · **High-demand under $2,500:** 228
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/dev`
 **Best for:** founders, investors, studios
 
@@ -78,7 +78,7 @@ print(df.head())
 | beans.dev     | premium   | $198.75   | $198.75       | high           | high   | 5      | name.com                                                  |
 | lxviii.dev    | available | $10.98    | $20.98        | low            | low    | 6      | namecheap                                                 |
 | sandbar.dev   | resell    | —         | —             | medium         | high   | 7      | Uniregistrar Corp                                         |
-| enemy.dev     | premium   | $106.80   | $106.80       | medium         | low    | 5      | namesilo                                                  |
+| enemy.dev     | premium   | $115.70   | $115.70       | medium         | low    | 5      | namecheap                                                 |
 | riming.dev    | available | $10.98    | $20.98        | low            | low    | 6      | namecheap                                                 |
 | positives.dev | resell    | —         | —             | low            | low    | 9      | Namecheap Inc.                                            |
 | parks.dev     | premium   | $198.75   | —             | medium         | low    | 5      | name.com                                                  |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEV One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEV One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
