@@ -1,10 +1,10 @@
-# Available .DEV One-Word Domains (73,424)
+# Available .DEV One-Word Domains (74,771)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-73%2C424%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-74%2C771%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .dev one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **73,424 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **74,771 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 73,424 domains · **Median ask:** $39.90 · **High-demand under $2,500:** 228
+**Public extract:** 1,000 rows · **Live catalog:** 74,771 domains · **Median ask:** $37.13 · **High-demand under $2,500:** 208
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/dev`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| lxxv.dev      | available | $10.98    | $20.98        | low            | low    | 4      | namecheap                                                 |
-| nippy.dev     | resell    | —         | —             | low            | low    | 5      | Dynadot LLC.                                              |
-| lie.dev       | premium   | $198.75   | —             | medium         | low    | 3      | name.com                                                  |
-| sewn.dev      | available | $10.98    | $20.98        | low            | low    | 4      | namecheap                                                 |
-| unify.dev     | resell    | —         | —             | medium         | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| jews.dev      | premium   | $57.82    | $57.82        | medium         | low    | 4      | namesilo                                                  |
-| inon.dev      | available | $14.99    | —             | medium         | low    | 5      | name.com                                                  |
+| lxxv.dev      | available | $10.98    | $20.98        | high           | low    | 4      | namecheap                                                 |
+| ivy.dev       | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                           |
+| lie.dev       | premium   | $198.75   | —             | high           | low    | 3      | name.com                                                  |
+| sewn.dev      | available | $10.98    | $20.98        | high           | low    | 4      | namecheap                                                 |
+| nippy.dev     | resell    | —         | —             | high           | low    | 5      | Dynadot LLC.                                              |
+| per.dev       | premium   | $411.25   | —             | high           | low    | 3      | name.com                                                  |
+| sewed.dev     | available | $10.98    | $20.98        | high           | low    | 5      | namecheap                                                 |
+| weaver.dev    | resell    | —         | —             | high           | high   | 6      | Namecheap Inc.                                            |
+| xli.dev       | premium   | $106.80   | $106.80       | high           | low    | 3      | namesilo                                                  |
+| cinque.dev    | available | $10.98    | $20.98        | high           | low    | 6      | namecheap                                                 |
 | chimney.dev   | resell    | —         | —             | high           | low    | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
+| jews.dev      | premium   | $57.82    | $57.82        | high           | low    | 4      | namesilo                                                  |
+| monied.dev    | available | $10.98    | $20.98        | high           | low    | 6      | namecheap                                                 |
+| quartet.dev   | resell    | —         | —             | high           | low    | 7      | Dynadot LLC.                                              |
+| lady.dev      | premium   | $198.75   | —             | high           | low    | 4      | name.com                                                  |
+| mouthy.dev    | available | $14.99    | —             | high           | low    | 6      | name.com                                                  |
+| sandbar.dev   | resell    | —         | —             | high           | high   | 7      | Uniregistrar Corp                                         |
 | week.dev      | premium   | $198.75   | —             | high           | low    | 4      | name.com                                                  |
-| cinque.dev    | available | $10.98    | $20.98        | low            | low    | 6      | namecheap                                                 |
-| quartet.dev   | resell    | —         | —             | low            | low    | 7      | Dynadot LLC.                                              |
-| beans.dev     | premium   | $198.75   | $198.75       | high           | high   | 5      | name.com                                                  |
-| lxviii.dev    | available | $10.98    | $20.98        | low            | low    | 6      | namecheap                                                 |
-| sandbar.dev   | resell    | —         | —             | medium         | high   | 7      | Uniregistrar Corp                                         |
-| enemy.dev     | premium   | $115.70   | $115.70       | medium         | low    | 5      | namecheap                                                 |
-| riming.dev    | available | $10.98    | $20.98        | low            | low    | 6      | namecheap                                                 |
-| positives.dev | resell    | —         | —             | low            | low    | 9      | Namecheap Inc.                                            |
-| parks.dev     | premium   | $198.75   | —             | medium         | low    | 5      | name.com                                                  |
-| seemed.dev    | available | $10.99    | $14.99        | low            | low    | 6      | namesilo                                                  |
-| whitehat.dev  | resell    | —         | —             | high           | high   | 9      | Porkbun LLC                                               |
+| punter.dev    | available | $14.99    | —             | high           | low    | 6      | name.com                                                  |
+| positives.dev | resell    | —         | —             | high           | low    | 9      | Namecheap Inc.                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 73,424 live domains                        |
+| 1,000-row public sample | 74,771 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 228 high-demand names under $2,500         |
+| Basic exported fields   | 208 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEV One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEV One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
