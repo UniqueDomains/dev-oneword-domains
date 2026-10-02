@@ -6,7 +6,7 @@ d303a913-d29f-4d9f-9643-f71d81ae9154,bugler.dev,available,,,high,high,6,,,,
 7bdcc381-9482-4a14-88ca-e8deb96b75b6,frowned.dev,available,,,medium,low,7,,,,
 40b8a2ce-ea74-4fa8-b27f-2ff697de2475,illegalize.dev,available,10.98,20.98,medium,low,10,namecheap,,,04/09/2026 19:26
 0b612443-0489-4af5-badf-f3a0eb3bf105,gainfully.dev,available,10.98,20.98,high,low,9,namecheap,,,14/09/2026 20:59
-7db38486-2793-4aaf-afab-de44c2cea10c,installations.dev,available,,,high,low,13,,,,
+7db38486-2793-4aaf-afab-de44c2cea10c,installations.dev,premium,89.2,,medium,low,13,unstoppable,,,01/10/2026 18:25
 6c9f6f8c-c7ce-4e85-ab40-756d35b28737,grinning.dev,available,10.98,20.98,high,low,8,namecheap,,,27/09/2026 23:14
 e159560e-f42a-4b77-aaf0-142fc007dabf,coonie.dev,available,,,high,high,6,,,,
 0a2c6eb7-f7e9-40ed-9e47-142de39a380c,aftershow.dev,available,,,high,medium,9,,,,
@@ -105,7 +105,6 @@ f932fbee-fc23-4763-87ec-9af423209e06,fusionism.dev,available,,,high,low,9,,,,
 4b82c1d4-1b6f-4ad0-8c44-4dfc4bc2e551,opportunity.dev,resell,,,high,low,11,,,,27/09/2026 02:17
 e30a5515-0c71-445c-988a-28f99964d841,barbecued.dev,available,10.98,20.98,high,low,9,namecheap,,,08/08/2026 16:25
 33e13a57-b447-42bd-b09c-2799134ca401,litre.dev,available,10.98,20.98,high,low,5,namecheap,,,22/08/2026 17:09
-e71e843d-de4b-4d8f-ad15-1baa27e99571,piety.dev,available,,,high,high,5,,,,
 8a2513d5-f57a-4274-bfb7-0fdeb66a3f0e,literature.dev,premium,198.75,198.75,high,low,10,name.com,,,24/08/2026 02:03
 5069976b-5ab7-4f8e-ab5b-610667cd645d,herbivores.dev,available,,,medium,low,10,,,,
 c7f518f6-585d-4ba3-b6fb-6f5423b485e8,kinsha.dev,available,,,high,high,6,,,,
@@ -140,13 +139,14 @@ a6c2d43f-7d29-4bd1-846d-034c279a00e7,civilise.dev,available,,,high,high,8,,,,
 9b9e3c15-3d66-4169-9c14-13a0815e5368,diminished.dev,available,10.98,20.98,medium,low,10,namecheap,,,07/08/2026 15:00
 63e406f5-292f-4125-a99f-7bbb5365955e,trapping.dev,available,10.98,20.98,high,low,8,namecheap,,,30/09/2026 08:56
 d9cd437c-599c-4049-a0ca-8f5c281d6a4b,defroster.dev,available,,,high,high,9,,,,
+4f6a0576-33e7-44d5-8495-fbb76f65a2bc,robby.dev,resell,,,high,low,5,,,,01/10/2026 23:55
 00fbc61f-846b-486c-be91-7626f84b65ab,signatories.dev,available,,,high,high,11,,,,
 04e3d748-89dd-42a0-97a1-857fb79830ee,thumping.dev,available,10.98,20.98,high,low,8,namecheap,,,08/08/2026 13:08
 fc44991b-1e02-41aa-85ec-91c5f71186d9,fruitwood.dev,available,,,high,high,9,,,,
 7640f8c8-dae7-4e2f-80cd-17d56d18637e,nightlight.dev,available,,,high,high,10,,,,
 ab5dda5d-59f8-488b-892b-58bff09c80a4,paralympics.dev,available,,,high,high,11,,,,
 674d2fa2-a8f9-4e40-81a8-7d9ffcc9114a,centroidal.dev,available,10.98,20.98,high,low,10,namecheap,,,12/08/2026 00:18
-d58fefb9-3fc0-4dee-a507-a0a1ef5b9353,navigational.dev,available,,,high,high,12,,,,
+d58fefb9-3fc0-4dee-a507-a0a1ef5b9353,navigational.dev,available,10.99,14.99,high,low,12,namesilo,,,01/10/2026 06:02
 7268f1e0-42ca-4e82-9aa3-22f3bb9684b8,plasmas.dev,available,8.48,12.62,medium,low,7,spaceship,,,30/09/2026 15:59
 2f9dcf1f-c67c-46b5-a7da-a5828dd9fd64,hold.dev,resell,,,high,low,4,"Spaceship, Inc.",26/02/2025 04:18,26/02/2027 04:18,26/09/2026 06:41
 707fa006-1e74-4ab6-b591-dd1b05f0d33b,laying.dev,premium,57.82,57.82,high,low,6,namesilo,,,25/09/2026 22:34
@@ -169,6 +169,7 @@ a7d0019b-6d15-4bbb-b9c4-e0d0c0f3949d,kisangani.dev,available,,,high,high,9,,,,
 db780195-ac2f-41ef-ae6f-11a3c8f0ba72,idiopathic.dev,available,10.98,20.98,medium,low,10,namecheap,,,21/08/2026 18:09
 eb2e5898-eec7-4343-89bd-2cd063cb8b0b,waverly.dev,available,10.99,14.99,high,low,7,namesilo,,,29/09/2026 10:04
 09e52355-e35d-4099-be46-017256490146,ausonia.dev,available,,,high,high,7,,,,
+0e935155-c12c-4247-b28d-44256b9ee83d,jeffreys.dev,available,10.99,14.99,high,low,8,namesilo,,,02/10/2026 01:14
 a85d7981-8b67-43dc-8a6e-074fc66f010c,begun.dev,premium,,,medium,low,5,,,,28/09/2026 08:15
 c9e5c9af-675c-47e2-b468-d98276169e5e,differences.dev,premium,106.8,106.8,medium,low,11,namesilo,,,17/09/2026 14:00
 ec158ac2-8959-44f6-8d96-85b6461bfde5,wilton.dev,resell,,,high,low,6,,,,30/09/2026 19:06
@@ -178,6 +179,7 @@ ec158ac2-8959-44f6-8d96-85b6461bfde5,wilton.dev,resell,,,high,low,6,,,,30/09/202
 812f622f-a0cc-426f-be5a-45968802110f,triliteral.dev,available,,,high,high,10,,,,
 3ee9ae43-eff5-4195-8d25-a464ef8c3915,riveter.dev,available,,,high,high,7,,,,
 f6adbd04-457e-4187-b4e3-0b3597f62430,teleports.dev,available,,,high,low,9,,,,
+c8e5d9c9-0681-4803-9ad9-1a6e4bf91189,interrogate.dev,available,8.48,12.62,high,low,11,spaceship,,,01/10/2026 05:15
 5f74df69-9928-435a-a7b5-9b7bbe7ecdac,adverse.dev,premium,57.82,57.82,high,low,7,namesilo,,,
 a64d8919-96be-4931-9379-ff60333d67a6,terrorists.dev,available,10.98,20.98,medium,low,10,namecheap,,,27/09/2026 03:16
 b254a340-9c65-4ceb-914c-eb81459a43dc,recognizably.dev,available,,,high,high,12,,,,
@@ -260,7 +262,7 @@ b556ac76-ec42-4291-aef0-583f794b7988,corking.dev,available,10.98,20.98,high,low,
 f31ec496-5479-4e12-8bd9-9b14ec6c5938,skittle.dev,available,,,high,high,7,,,,
 7c10dbdf-5b88-43d5-922f-14b8c7d4e59f,colonized.dev,available,10.98,20.98,high,low,9,namecheap,,,12/08/2026 17:23
 9494cc2a-cc08-4209-8694-6c77595cda9e,maccas.dev,available,,,high,high,6,,,,
-b3b5f541-8b43-47c9-9187-4a65d722f672,anticipating.dev,available,,,medium,low,12,,,,
+b3b5f541-8b43-47c9-9187-4a65d722f672,anticipating.dev,available,8.48,12.62,medium,low,12,spaceship,,,02/10/2026 02:52
 0d71b89b-5fd7-4f22-9d20-013c0e4230c4,pursy.dev,available,10.98,20.98,high,medium,5,namecheap,,,09/09/2026 06:28
 0b87d2fe-2b32-4293-a5be-f2fac4990e75,balmoral.dev,available,10.99,14.99,high,low,8,namesilo,,,21/09/2026 23:39
 74654fa0-8050-4ed0-80e7-444c51793c8a,empathically.dev,available,,,high,high,12,,,,
@@ -296,6 +298,7 @@ eae06d31-9ed3-4735-967f-e5ecbe717128,cinematise.dev,available,,,high,high,10,,,,
 6046fe8e-0578-42df-8e75-310e9ecf5191,impressionably.dev,available,,,high,high,14,,,,
 f0275d8b-04d2-45ce-a965-4088a930cd9e,gyrator.dev,available,,,high,high,7,,,,
 687f84b8-e7fa-4a4f-9f76-e874f8207f52,francophonie.dev,available,,,high,high,12,,,,
+f492e364-f5cb-48a6-98e2-6b035d7d7324,zuckerman.dev,available,10.99,14.99,high,low,9,namesilo,,,02/10/2026 00:34
 48a55469-02a1-40c8-80ab-83a0451d9ca7,coughings.dev,available,,,medium,low,9,,,,
 05a19e39-f84b-4b75-a2ce-1cfe8887902b,liturgical.dev,available,10.98,20.98,high,low,10,namecheap,,,24/08/2026 07:40
 fbed8453-452d-4bb8-8b6a-5810ad2b9163,vinegar.dev,premium,57.82,57.82,high,low,7,namesilo,,,29/09/2026 08:17
@@ -314,7 +317,7 @@ a4b7942d-6de8-4a05-812a-a810a0919ba5,araroba.dev,available,10.98,20.98,medium,lo
 d59b5acf-fd51-42ae-92f4-bd8a516768fc,neutraliser.dev,available,,,high,high,11,,,,
 3f9b02f8-5da9-401b-9d84-11af7718e272,harmonical.dev,available,10.98,20.98,high,low,10,namecheap,,,12/08/2026 22:48
 662ff0c4-3794-4630-b682-be5e003e5a68,corfu.dev,available,10.99,14.99,high,low,5,namesilo,,,30/09/2026 04:34
-d676fb6f-49e1-4c7e-a271-b66daede8c88,forgetting.dev,premium,57.82,57.82,high,low,10,namesilo,,,
+d676fb6f-49e1-4c7e-a271-b66daede8c88,forgetting.dev,premium,50.92,50.92,high,low,10,spaceship,,,01/10/2026 18:31
 956becc0-165a-4084-bd75-bd0a31d143b1,globally.dev,premium,106.8,106.8,high,low,8,namesilo,,,14/09/2026 21:41
 c43e61b6-1377-4866-985c-71d001b36675,alupent.dev,available,10.99,14.99,high,low,7,namesilo,,,18/09/2026 15:17
 5c78283d-e00f-4dd0-b668-bed69d09faf5,estheticism.dev,available,,,high,high,11,,,,
@@ -333,6 +336,7 @@ e1d1e203-818e-438e-932c-dcccc1d7bed9,centrohub.dev,available,,,high,high,9,,,,
 9b93de38-d164-4215-bc27-6f6ae7982174,recency.dev,available,,,high,high,7,,,,
 a4a0477e-9b1d-4dc3-82ed-24e6e7617906,conformist.dev,available,10.98,20.98,high,low,10,namecheap,,,12/08/2026 21:13
 7567cd9f-3eaf-498b-957c-fa9b42077ac1,supersaw.dev,available,,,high,high,8,,,,
+5b8c0659-3cae-477f-ba78-93776cc017ef,hogs.dev,available,17,,medium,low,4,unstoppable,,,01/10/2026 16:49
 daa798d3-5ddc-469c-a9cc-2a0a18dedab5,birthtime.dev,available,,,high,high,10,,,,
 d5410272-243b-48b9-8ba4-11fad33381f2,lethean.dev,available,,,high,high,7,,,,
 dc83673f-d765-4b3c-be82-9ddc7c8a8b66,instalment.dev,available,,,high,high,10,,,,
@@ -372,7 +376,6 @@ f3e0baba-bef1-4a4b-bbe6-e66bb53ea1ad,envirofriendly.dev,available,,,high,high,14
 ebbfa542-3c82-4539-874a-e80303c8eec8,adventured.dev,available,,,medium,low,10,,,,
 3ce0945e-7aa9-4b0f-81da-cf970cf7cd5f,republicanism.dev,available,,,high,high,13,,,,
 66b03d17-03d6-4e67-b495-ed99983a671d,backpackable.dev,available,,,medium,low,12,,,,
-be1a7dea-c0b0-4076-a46d-fc4fe642834e,predetermined.dev,available,,,high,high,13,,,,
 228bf491-952a-4a9c-803b-d482cf09c4ba,absorbed.dev,available,10.99,14.99,high,low,8,namesilo,,,21/09/2026 14:58
 1cc1db5a-6c25-41fa-a088-b2dfc83c42fd,oratorio.dev,available,,,high,high,8,,,,
 f4bbfb9e-d2bb-4d3f-9a5f-48442d5f3f10,vma.dev,available,,,high,low,3,,,,
@@ -444,7 +447,7 @@ d21808c2-7c96-4602-bdb3-864ad7a9837c,counteract.dev,available,,,high,high,10,,,,
 fc6e8482-0481-4443-a87e-0f10063846d7,microbead.dev,available,,,high,high,9,,,,
 65553cc8-65af-403c-bf1b-818ed14f57dd,permissibly.dev,available,,,high,high,11,,,,
 25f74dcb-61c5-4d5c-b66e-d183292ac95f,dufftown.dev,available,,,high,high,8,,,,
-d7fe2ae1-cfda-4dbb-bb7a-ad011f874c0c,spraying.dev,available,,,high,high,8,,,,
+d7fe2ae1-cfda-4dbb-bb7a-ad011f874c0c,spraying.dev,available,8.48,12.62,high,low,8,spaceship,,,01/10/2026 19:08
 f3722379-1f57-4133-8eea-f9551be8881b,noodles.dev,premium,106.8,106.8,medium,low,7,namesilo,,,28/09/2026 17:23
 8d24a67d-317b-4906-84fd-6aca0537bbb3,drag.dev,premium,421.12,421.12,high,low,4,namesilo,,,25/09/2026 22:05
 eb329153-dd6a-4bac-9d0d-1c3223e6abde,tillers.dev,available,10.99,14.99,medium,low,7,namesilo,,,20/09/2026 14:06
@@ -471,8 +474,9 @@ ef305fc0-7dc3-435a-a0b1-1203fe44f0b4,choregrapher.dev,available,,,high,high,12,,
 5a7179fe-74de-49bb-96ff-0b0d868e0b45,elmton.dev,available,,,high,high,6,,,,
 ac1d3c7d-5b36-4c5c-b6dc-07906b4e3037,mustered.dev,available,,,high,low,8,,,,
 9fb53650-d7f2-4284-ba6c-f20bff4ccc01,iatric.dev,available,,,high,high,6,,,,
+174e9ec5-0dbd-4a2f-8fdb-42ff90dde611,visualization.dev,premium,,,high,low,13,,,,02/10/2026 01:37
 3c8c4c8c-0bb7-491a-b25a-d0188846563f,multisymbol.dev,available,,,high,high,11,,,,
-ee70ab68-05dd-40e7-adc2-84c885459a2a,taekwondo.dev,available,,,high,high,9,,,,
+ee70ab68-05dd-40e7-adc2-84c885459a2a,taekwondo.dev,premium,,,high,high,9,,,,02/10/2026 02:27
 bcf73b55-e84d-4a02-8634-255863a4b796,flamboyantly.dev,available,,,high,high,12,,,,
 4132b041-9527-47d6-b4ec-593423a7dce6,chatfest.dev,available,,,high,high,8,,,,
 4f9f407d-092e-444b-8d1e-ffc1aa2b55d8,parachutist.dev,available,,,high,high,11,,,,
@@ -487,7 +491,7 @@ f29ff7ef-0704-4edf-9e23-d967c7364278,vigilantist.dev,available,,,medium,low,11,,
 22a7e18f-731e-4e1e-8833-9495162fd7e5,wagerers.dev,available,,,medium,low,8,,,,
 e3f729a0-f5e9-417f-9319-5f1ddb8a35f4,shoveler.dev,available,10.99,14.99,high,low,8,namesilo,,,19/09/2026 02:54
 709c0349-b8ea-4458-9cb5-322685604020,yogurtlike.dev,available,,,high,high,10,,,,
-abff1fa3-10f7-4093-bda6-35053359cb65,pinging.dev,available,14.99,,high,low,7,name.com,,,
+abff1fa3-10f7-4093-bda6-35053359cb65,pinging.dev,available,10.98,20.98,high,low,7,namecheap,,,02/10/2026 02:36
 c8a9008b-6802-4e8f-9367-6f4feecae31f,airlike.dev,available,10.98,20.98,high,low,7,namecheap,,,
 c5fdd84e-6bad-42e7-8d5a-d3cc4ac0711b,cases.dev,premium,203.52,203.52,high,low,5,namesilo,,,17/09/2026 16:31
 9304ead6-9434-44ae-a01c-1722558b4895,hapter.dev,available,17,,high,low,6,unstoppable,,,30/09/2026 20:38
@@ -528,7 +532,7 @@ d7341fcc-28a2-4c14-87cd-3bfc599a6ea4,restrained.dev,available,10.98,20.98,high,l
 76cf7b70-de5b-4ba1-81f6-64b33c4a6e37,foza.dev,available,,,high,high,4,,,,
 ce53115d-a15b-4436-8780-4d1f5b40a2bb,backlogged.dev,available,,,high,high,10,,,,
 82cf6100-04c2-4e57-bf48-4e96be473ad5,spearheading.dev,available,,,medium,low,12,,,,
-40f0ecb1-e160-4cfd-8523-e5cdbc80a2f2,newsgroup.dev,available,14.99,,high,low,9,name.com,,,
+40f0ecb1-e160-4cfd-8523-e5cdbc80a2f2,newsgroup.dev,available,17,,high,low,9,unstoppable,,,01/10/2026 22:38
 a4272617-9da9-4e38-ad22-41a076568121,follower.dev,premium,49.2,57.82,high,low,8,unstoppable,,,29/09/2026 19:39
 163f1d61-d95e-4e05-b890-e6b054f021f6,soupcon.dev,available,,,high,high,7,,,,
 d3f6abe6-c4a5-410d-b994-722fb559d40d,whittener.dev,available,,,high,high,9,,,,
@@ -569,11 +573,11 @@ ad968053-cbc6-4d46-a803-312db6d03e2c,aphid.dev,available,10.99,14.99,high,low,5,
 d906faf7-57f9-45a6-bcbb-8cc9edf95ccc,ambergris.dev,available,10.99,14.99,high,low,9,namesilo,,,18/09/2026 16:37
 f04fde43-119e-4d07-bd45-0a5937ed5a2e,munchie.dev,available,,,high,high,7,,,,
 e64fb9df-bff2-4190-8bfd-5aa2a540d895,ripely.dev,available,10.98,20.98,high,low,6,namecheap,,,15/09/2026 23:48
-f1428acb-e054-42b7-a347-afad254db6ec,cataloging.dev,available,,,high,medium,10,,,,
+f1428acb-e054-42b7-a347-afad254db6ec,cataloging.dev,available,10.99,14.99,high,low,10,namesilo,,,02/10/2026 02:32
 adc60291-9b44-4dba-9ef7-56b1d0995741,snobby.dev,available,10.98,20.98,medium,low,6,namecheap,,,12/08/2026 11:23
 bf29223b-bc5c-4c64-8a56-43c1ddde35d9,stevia.dev,available,,,high,high,6,,,,
 a06275f1-cc3b-4aa6-87eb-244edb38424f,nucflash.dev,available,,,high,high,8,,,,
-91fbff9f-269b-4dff-9730-1c54d082c6a6,exclusively.dev,premium,106.8,106.8,high,low,11,namesilo,,,
+91fbff9f-269b-4dff-9730-1c54d082c6a6,exclusively.dev,premium,106.8,106.8,high,low,11,namesilo,,,01/10/2026 06:44
 b9ca57e3-1a86-4279-a427-51326665c160,appointments.dev,premium,50.92,50.92,medium,low,12,spaceship,,,28/09/2026 17:59
 c64f44f4-f8dd-4a21-ad79-30f32b6ae68c,masterliness.dev,available,,,high,low,12,,,,
 27b70a3f-26f1-4132-8c75-5bba5fec76b7,airily.dev,available,10.98,20.98,medium,low,6,namecheap,,,13/09/2026 18:31
@@ -638,6 +642,7 @@ fcbb227d-0e2c-44ab-a429-1f2f05b112d7,galena.dev,available,,,high,high,6,,,,
 883028e9-13c6-4bcc-a1f8-65e8145619af,lollies.dev,available,,,medium,low,7,,,,
 fe7dfcd7-0755-4b77-b846-c4c57ce27db8,allelomorph.dev,available,,,high,high,11,,,,
 354d2dac-a773-436e-bda3-c90eadb1abe1,announcing.dev,available,8.75,12.87,medium,low,10,porkbun,,,29/09/2026 05:34
+000419b7-f0db-4fb4-92f5-5f946b479819,boylston.dev,available,10.99,14.99,medium,low,8,namesilo,,,01/10/2026 12:42
 9772f98a-3c6a-4025-9451-ced777b8e4e6,arthroscope.dev,available,,,high,high,11,,,,
 ad37cf46-a284-40ed-94b1-84b153f2e2ba,stigma.dev,resell,,,high,low,6,,,,30/09/2026 18:51
 8146ccde-3dd4-4015-b094-803588abe340,antifascism.dev,available,,,high,high,12,,,,
@@ -646,6 +651,7 @@ ad37cf46-a284-40ed-94b1-84b153f2e2ba,stigma.dev,resell,,,high,low,6,,,,30/09/202
 c410ec86-d901-4f96-843b-da4e180ed81a,wickerwork.dev,available,,,high,high,10,,,,
 13540280-f38d-4a93-959c-0a7015636b69,cbirs.dev,available,,,high,high,5,,,,
 efc2ae16-0bb9-49f5-bbe6-cd00c382eca5,heedful.dev,available,,,high,low,7,,,,
+207d6fa9-9f07-4c3f-ab51-e09638caa9d4,harrogate.dev,available,10.99,14.99,high,low,9,namesilo,,,02/10/2026 00:02
 12d4f2ae-2be6-4cbf-9280-f5f532f7ebc5,ardisia.dev,available,10.99,14.99,medium,low,7,namesilo,,,20/09/2026 03:10
 363a1323-a024-4f1d-9317-d63f77d0f6da,resister.dev,available,10.99,14.99,high,low,8,namesilo,,,17/09/2026 10:49
 a9dc37ba-db6c-451c-a34f-8566f85f2053,ldp.dev,premium,89.2,,high,low,3,unstoppable,,,30/09/2026 03:15
@@ -675,7 +681,6 @@ ca442736-c5bf-474f-a11a-994b4d9be1ce,gordo.dev,available,,,high,high,5,,,,
 0cc20bc1-7bdb-4fbd-8a9d-f53909180490,aurthur.dev,available,,,high,high,7,,,,
 ef2e4f47-cfee-4756-acee-1bf09f09919c,garibaldi.dev,available,,,high,high,9,,,,
 261f8e0a-91b7-40c6-ab2b-b20b55374d99,within.dev,premium,159.2,,high,low,6,unstoppable,,,28/09/2026 16:47
-6fc7b314-cf85-4822-a7ed-7b44435f3045,occupancy.dev,available,,,high,high,9,,,,
 c5524641-e813-46b9-ab3c-94cc0d5130e5,unalike.dev,available,10.98,20.98,medium,low,7,namecheap,,,12/09/2026 00:26
 297ae16c-480c-490b-9922-05345ea4beee,additionary.dev,available,,,high,high,11,,,,
 36545475-2136-4b59-9c0c-49d9353c5b68,whithorn.dev,available,,,high,high,8,,,,
@@ -683,7 +688,7 @@ c5524641-e813-46b9-ab3c-94cc0d5130e5,unalike.dev,available,10.98,20.98,medium,lo
 1e4845d8-f014-42a6-82e7-83f5929f1765,deepish.dev,available,,,high,high,7,,,,
 509c1a4a-3a53-4848-a25b-c9ab998b4cd5,cartoonize.dev,available,,,high,high,10,,,,
 10d2b0b1-0257-402e-80bb-23ee11627858,cobblestones.dev,available,,,high,low,12,,,,
-77d23691-356e-4c9d-8b23-0f29812b62c2,governmental.dev,available,,,high,high,12,,,,
+77d23691-356e-4c9d-8b23-0f29812b62c2,governmental.dev,available,8.48,12.62,high,low,12,spaceship,,,01/10/2026 22:31
 58253e63-02ff-479c-b7e3-0dfa6464190e,comilla.dev,available,,,high,high,7,,,,
 d102012d-d89d-4f79-83f1-bfa1c19719f5,preponderantly.dev,available,,,high,high,14,,,,
 01d8fdf7-8721-4cfb-affa-e89b807a3cb7,precursory.dev,available,10.98,20.98,high,medium,10,namecheap,,,09/09/2026 01:20
@@ -739,6 +744,7 @@ f13501e2-e9ba-443f-b8b0-e7976b356642,graspable.dev,available,,,medium,low,9,,,,
 2638bd74-b2c0-42db-a006-f89474559fd5,accrue.dev,available,9.99,19.99,high,high,6,name.com,,,
 52c0dc46-9c21-4adb-affa-41eead89a0b0,telephonic.dev,available,10.98,20.98,high,low,10,namecheap,,,11/09/2026 10:20
 a14fce35-397a-408c-aef8-4a49229ecdf4,implements.dev,available,,,high,low,10,,,,
+6ea49a3c-d033-4c5b-8671-c78d4072ec06,hernia.dev,available,17,,high,low,6,unstoppable,,,01/10/2026 19:57
 22aa60c7-9810-4623-9f2d-aa5fbdba4cc7,midcentury.dev,available,,,high,high,11,,,,
 40368a6e-1839-426d-be17-380a3e57fdfe,rejoining.dev,available,,,high,high,9,,,,
 5276f862-2d2c-4cb9-ab51-f9d102c01d40,executable.dev,premium,411.25,411.25,high,low,10,name.com,,,17/08/2026 16:50
@@ -755,7 +761,7 @@ a0c4b6c4-bf8e-4235-92fd-13b2bb790692,craftsperson.dev,available,,,high,high,12,,
 028c2c73-7f1a-4e6b-9be2-9020b642b04b,cybercapitalism.dev,available,,,high,high,15,,,,
 2ce34c4d-38ea-4336-8cbe-ea2dfe9db083,taxonomic.dev,available,10.98,20.98,high,low,9,namecheap,,,11/09/2026 09:30
 cf395c9f-92f5-43c0-a204-57d0d70b615a,solihull.dev,available,,,high,high,8,,,,
-52c3257f-1e0c-45c7-9ed8-9d05f5e51946,granting.dev,available,14.99,,high,low,8,name.com,,,
+52c3257f-1e0c-45c7-9ed8-9d05f5e51946,granting.dev,available,8.2,12.2,high,low,8,cloudflare,,,01/10/2026 22:30
 613495c5-fc17-43c4-a352-615f60082070,organismic.dev,available,10.98,20.98,high,low,10,namecheap,,,04/09/2026 17:49
 4bcf84a1-d9cf-4d62-b3e7-f828e09e8ab5,lumpen.dev,available,10.98,20.98,high,low,6,namecheap,,,24/08/2026 11:14
 5332f742-101c-41a4-94f5-d2dbfc8e7b9e,gqeberha.dev,available,,,high,high,8,,,,
@@ -763,7 +769,7 @@ cf395c9f-92f5-43c0-a204-57d0d70b615a,solihull.dev,available,,,high,high,8,,,,
 9ad1c785-64df-4e6f-abd4-d9e1abcf9f3b,slicers.dev,available,,,medium,low,7,,,,
 5c197e91-6690-4850-a950-b497a383cb3e,breakdancer.dev,available,,,high,high,11,,,,
 d9362f66-9c30-45cb-a328-811435ac8763,foreshorten.dev,available,,,high,high,11,,,,
-a090637b-3546-49f1-91e2-1772e735b5af,abington.dev,available,,,high,high,8,,,,
+a090637b-3546-49f1-91e2-1772e735b5af,abington.dev,available,17,,high,low,8,unstoppable,,,02/10/2026 01:44
 2d5dfd3f-8685-4d7e-8e17-951ebf19f838,untrusty.dev,available,10.98,20.98,medium,low,8,namecheap,,,12/09/2026 21:46
 b2002202-b1b0-40a5-831e-c984a35a50e3,paediatric.dev,available,10.98,20.98,high,low,10,namecheap,,,04/09/2026 22:51
 41f49e9e-50f2-4ab4-9d0c-b0350088a470,encampment.dev,available,10.98,20.98,high,low,10,namecheap,,,08/09/2026 09:14
@@ -780,7 +786,7 @@ e058a03e-ae24-452c-bcb0-358173c9578c,tubs.dev,available,,,high,low,4,,,,
 4bfa1cca-f704-4388-959b-8a990c125904,apostate.dev,available,10.98,20.98,medium,low,8,namecheap,,,06/08/2026 03:35
 8d1cb75b-b2ae-43f3-99dd-514ea2eb33d0,iodin.dev,available,10.98,20.98,high,low,5,namecheap,,,21/08/2026 17:26
 7b407f5c-bbef-4942-b066-f8e7fe22ca17,swimmer.dev,available,10.99,14.99,high,low,7,namesilo,,,22/09/2026 13:29
-57bfe933-628e-4b05-a79a-0ddb2fcdf1b8,divides.dev,available,,,high,low,7,,,,
+57bfe933-628e-4b05-a79a-0ddb2fcdf1b8,divides.dev,available,8.2,12.2,medium,low,7,cloudflare,,,01/10/2026 17:42
 86f02bab-ec0e-43b2-901c-d3131e6aa32f,flexibleness.dev,available,,,high,low,12,,,,
 d83090e7-46bf-4a1e-b268-95e90488b71a,weapons.dev,premium,106.8,106.8,medium,low,7,namesilo,,,25/09/2026 17:10
 02fb1583-d845-4b30-9325-20a5382221a4,confucian.dev,available,10.98,20.98,high,low,9,namecheap,,,12/08/2026 21:15
@@ -802,7 +808,6 @@ df958e9e-baca-4b4e-a3d4-5acf83f1f09e,transitioning.dev,available,,,high,high,13,
 5a2bc135-62bd-4b74-9272-a8a6e97ba19a,heraldic.dev,available,10.98,20.98,high,low,8,namecheap,,,21/08/2026 06:53
 23b5059a-9d92-423e-9c16-6ccc91321286,indiscreet.dev,available,10.98,20.98,high,low,10,namecheap,,,22/08/2026 03:07
 80076211-012c-4227-bd9c-8948a31fc081,tolerability.dev,available,,,high,low,12,,,,
-83afe57f-151d-4e05-8ee8-3f904afede53,flexing.dev,available,14.99,,high,low,7,name.com,,,
 456c9589-d4c2-4f4a-a26e-0cf9f68d8554,upcurled.dev,available,,,medium,low,8,,,,
 687f3eeb-f2bd-4cf2-9a5d-22951ae1c10d,accomplishments.dev,available,,,high,low,15,,,,
 c9d480a7-ea58-4766-b813-916cd8322900,uncompress.dev,available,,,high,high,10,,,,
@@ -811,7 +816,7 @@ fca2c4bf-3ad8-4f9a-8ea1-e58ac0d53ddc,remittance.dev,available,,,high,high,10,,,,
 e11fe26e-f309-4c92-a1cd-5987030569d0,elms.dev,available,,,high,low,4,,,,
 1a9f9b79-85a6-4a05-aa12-2e47af3cf2cf,providing.dev,premium,164.77,164.77,high,low,9,spaceship,,,28/09/2026 07:19
 f924824f-9cc3-4e7c-8a5a-a08b68ed19a6,twinkie.dev,available,,,high,medium,7,,,,
-7c100f05-b6b4-453a-b888-956ff8d5a64c,mombasa.dev,available,,,high,high,7,,,,
+7c100f05-b6b4-453a-b888-956ff8d5a64c,mombasa.dev,available,8.2,12.2,high,low,7,cloudflare,,,01/10/2026 20:35
 70859172-1f43-406f-a094-ea03db3370d1,gonioscopy.dev,available,,,high,high,10,,,,
 aa6336b9-bc4b-4fc1-88ae-69e936361480,listerine.dev,available,10.99,14.99,high,high,9,namesilo,,,01/10/2026 02:23
 e103072b-45e2-4a91-8561-d17035993c0a,unguided.dev,available,10.98,20.98,medium,low,8,namecheap,,,12/09/2026 11:41
@@ -838,6 +843,7 @@ c2c37223-09c0-40ea-8e70-a7448db64b0a,sweetmeat.dev,available,,,high,high,9,,,,
 bc3ef8e2-9e76-4a3a-a8d8-645d38698c5e,agentlike.dev,available,,,high,high,9,,,,
 4df8b623-84a2-4128-aca8-ecaa1ef432b6,ticked.dev,available,,,high,high,6,,,,
 a1efe2dc-6c59-43b9-84be-b987a5b0dc0f,esthetically.dev,available,,,high,low,12,,,,
+415e9e5c-4407-4218-a159-f674680fa748,parkersburg.dev,available,8.2,12.2,medium,low,11,cloudflare,,,02/10/2026 00:08
 aedb0c45-a65a-4643-9345-141f743f7c35,ladanum.dev,available,,,high,high,7,,,,
 fdaa033d-84aa-4365-8627-7437e39b8875,neoassyrian.dev,available,,,high,high,12,,,,
 437cdd75-135b-472f-8eff-85f9241fa180,wardrobes.dev,available,,,high,medium,9,,,,
@@ -847,8 +853,10 @@ af3969c0-fbdf-488d-a511-d4c30156c161,exercisers.dev,available,,,medium,low,10,,,
 a4b1481f-350c-4e97-9464-5c00559bd0b7,socializing.dev,available,,,high,high,11,,,,
 f006aed6-b572-4e00-8733-87d4764f88ab,hotdish.dev,available,,,high,high,7,,,,
 499621cd-3480-40a6-a96a-9c8fbd63dfb5,arability.dev,available,10.99,14.99,medium,low,9,namesilo,,,19/09/2026 23:32
+bc85c134-5650-4c87-bf18-42a6e453d387,grandkid.dev,available,10.98,20.98,high,low,8,namecheap,,,01/10/2026 07:59
 39f243d2-ae17-4278-8901-d273ffdcdb2f,cogent.dev,resell,,,high,low,6,"Spaceship, Inc.",25/08/2025 17:01,25/08/2027 17:01,26/09/2026 05:06
 caecaa97-9fb4-4e1a-8ea7-f8dbdf64c171,beverly.dev,premium,63.7,63.7,high,low,7,namecheap,,,25/09/2026 21:21
+005dd2b3-bc99-4b02-8f05-4e626560ef1b,governors.dev,available,17,,high,low,9,unstoppable,,,01/10/2026 16:31
 e48b3843-e760-43b5-9abe-19da68e080c5,analgesic.dev,available,10.98,20.98,high,low,9,namecheap,,,
 2ced5b5c-5d88-472f-adcc-4867600c41bc,tautening.dev,available,,,high,high,9,,,,
 c4aeddd7-c257-4a0b-9309-6f50cd3e5c7f,callers.dev,available,,,high,low,7,,,,
@@ -889,6 +897,7 @@ f1df84e0-5085-4c5b-b9f9-7c294e77db57,kissinger.dev,available,17,,medium,low,9,un
 f94ca97e-881f-4e7a-9a45-64d78e66d9ca,clutching.dev,available,,,high,medium,9,,,,
 5c7cf5ae-bff6-454d-a5c8-4327ca45a5fc,cements.dev,available,10.99,14.99,medium,low,7,namesilo,,,20/09/2026 09:07
 14e11eae-91b7-4684-9d99-7596012e5a10,alyssum.dev,available,10.99,14.99,high,low,7,namesilo,,,18/09/2026 15:23
+bab6e2ef-2697-40dc-81f6-07ade8417f4a,circulated.dev,available,17,,medium,low,10,unstoppable,,,02/10/2026 03:37
 9ae26e4a-42db-471f-844c-023b78cb635d,languages.dev,premium,411.25,411.25,high,low,9,name.com,,,
 2af1b0d1-ba2f-4d2b-a5cd-f80ee8b1f5a5,jungle.dev,resell,,,high,low,6,"Spaceship, Inc.",26/05/2024 08:15,26/05/2027 08:15,26/09/2026 07:02
 c4938ab5-4e42-49f2-825b-00500efc3a58,olfactory.dev,available,10.98,20.98,high,low,9,namecheap,,,04/09/2026 02:12
@@ -933,6 +942,7 @@ b5f51b73-ef2f-464b-a90d-6ac6866d1896,ductility.dev,available,,,high,medium,9,,,,
 f17e3f8b-f7ea-4a20-a0df-dbff720b0c90,houselet.dev,available,,,high,high,8,,,,
 2cf3db5b-042a-43f1-9f27-c0303fbbfaca,monterrey.dev,available,10.99,14.99,medium,low,9,namesilo,,,28/09/2026 14:54
 b591e342-abd1-4895-b47f-be6816a9ccc4,trivet.dev,available,,,high,high,6,,,,
+df718363-5e4b-4d8b-b078-fd0eb64589fd,mesoamerica.dev,available,10.99,14.99,high,low,11,namesilo,,,01/10/2026 08:35
 75b0d9de-287e-4e48-a819-2f0646bf1d40,vaccine.dev,premium,57.82,57.82,high,low,7,namesilo,,,29/09/2026 02:28
 19b09a6e-d979-4ae9-be61-3dd667390caf,boozing.dev,available,,,high,high,7,,,,
 f357f6fa-b8e5-4efd-b569-1e91b79b60a3,accredition.dev,available,,,high,high,11,,,,
@@ -952,6 +962,7 @@ aa70a2fb-ac52-4fbc-acec-59678678a351,birthdays.dev,available,,,high,medium,9,,,,
 743bd9e1-08ba-486c-8d7f-0512cd9bbbf0,wreckage.dev,available,12.2,12.2,high,low,8,cloudflare,,,29/09/2026 08:20
 c95f991e-9416-4deb-a9da-1cd2e29a88e8,mobilizations.dev,available,,,medium,low,13,,,,
 c540882a-4d7d-4a20-980f-8df8d08d1123,affects.dev,available,10.99,14.99,high,low,7,namesilo,,,20/09/2026 03:57
+5a7447ca-17ad-4039-8496-00658c99c1f5,willa.dev,resell,,,high,low,5,,,,01/10/2026 09:55
 05a17352-cb74-4f3a-89df-63c8bbea83a8,williamsport.dev,available,10.99,14.99,high,low,12,namesilo,,,29/09/2026 15:53
 d39754e8-184a-47d9-9115-e1c27ec7ebc9,backstroke.dev,available,10.99,14.99,high,low,10,namesilo,,,21/09/2026 16:09
 ce289b5d-0f67-488e-b6cc-a722fbdc43ed,twirling.dev,available,,,high,medium,8,,,,
@@ -972,7 +983,7 @@ ddfbd474-1065-493a-bc76-56bd12f6ed30,yoghourts.dev,available,,,medium,low,9,,,,
 0d5415bb-1e17-4d0c-8cbf-83541be8da73,augean.dev,available,10.98,20.98,medium,low,6,namecheap,,,07/08/2026 16:54
 bdba697e-1661-4eff-bc14-a20364a84af8,nerd.dev,resell,,,high,medium,4,"Sav.com, LLC",20/12/2025 18:32,20/12/2026 18:32,29/09/2026 17:17
 401fde70-a7ca-4443-b006-d9f718ff10fe,cambodia.dev,premium,,,high,high,8,,,,29/09/2026 18:10
-d2fd170f-82a6-4f96-8fc3-6d3918700fdb,councillor.dev,available,,,high,high,10,,,,
+d2fd170f-82a6-4f96-8fc3-6d3918700fdb,councillor.dev,available,8.75,12.87,high,low,10,porkbun,,,01/10/2026 19:05
 9eb3b90d-8989-4b03-b89f-ec7a8de683bc,goddaughters.dev,available,,,medium,low,12,,,,
 dc3f442f-ffbe-4d37-8b43-dd6409ceed98,naans.dev,available,,,medium,low,5,,,,
 dd1bcc1c-8a24-4846-89e3-445c844a999a,destroys.dev,available,12.2,12.2,low,low,8,cloudflare,,,29/09/2026 05:36
@@ -988,14 +999,3 @@ af39d67e-0175-410b-a907-95fc52f2a034,ratification.dev,available,,,high,low,12,,,
 e54a3774-a68e-4791-848a-6655f15db211,slid.dev,available,10.98,20.98,medium,low,4,namecheap,,,30/09/2026 14:18
 4e95f2fe-475b-4e7f-b0fc-853e3c37325b,eighter.dev,available,10.98,20.98,medium,low,7,namecheap,,,
 3e8d6a28-7212-47a9-a343-8f7d567a0608,chipmunklike.dev,available,,,high,high,12,,,,
-683b176d-edf7-41fe-80a1-0cbdb4811de0,unordered.dev,available,10.98,20.98,medium,low,9,namecheap,,,12/09/2026 16:18
-43c7f86f-c630-4a5b-bc68-67feb7777845,electrifies.dev,available,,,medium,low,11,,,,
-66542a05-839e-4b74-b106-7f2bdf108538,deodourise.dev,available,,,high,high,10,,,,
-3cc1b76c-4250-44aa-a7bd-078f9a74a030,astragal.dev,available,10.99,14.99,high,low,8,namesilo,,,19/09/2026 09:44
-f908e7fc-30d7-467a-8ad5-7e4e9958c4cf,delivering.dev,premium,106.8,106.8,high,low,10,namesilo,,,28/09/2026 11:30
-0ca1fb25-a117-4a24-a5fb-230830d452f8,breastfeed.dev,available,14.99,14.99,high,high,10,namesilo,,,
-92216e9b-bc1c-4e33-bfc4-4669830d7578,harpineer.dev,available,,,high,high,9,,,,
-45e10021-d41d-41dd-8a04-518a95368dda,triumphantly.dev,available,,,high,high,12,,,,
-38301603-ec7f-4bcd-8be5-4245c8a629a3,volcanolike.dev,available,,,high,high,11,,,,
-c213ad2e-533d-47d2-824e-e72b525112b8,eliminating.dev,available,17,,medium,low,11,unstoppable,,,30/09/2026 14:26
-772521d3-626f-4346-b6a7-5aa1a34b203c,proposition.dev,premium,92.32,92.32,high,low,11,spaceship,,,28/09/2026 03:24
