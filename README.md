@@ -4,9 +4,9 @@
 
 1,000 real .dev one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [101,146 names on .dev](https://unique.domains/tld/dev); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [101,384 names on .dev](https://unique.domains/tld/dev); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-50,191 one-word .dev names are free to register today, from $7.48 the first year at Namecheap. Renewal there $20.98, three times the first year. 30 .dev sales in the last 12 months, median $912.
+50,259 one-word .dev names are free to register today. Cheapest first year $5.60 at Dynadot, renewal $12.50 there. 30 .dev sales in the last 12 months, median $912.
 
 Live page: [unique.domains/tld/dev](https://unique.domains/tld/dev?utm_source=github&utm_medium=referral&utm_campaign=repo_dev_oneword_domains&utm_content=top_tld_page)
 
@@ -70,7 +70,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 26,280 names in the live list today.
+- The files hold 1,000 rows of the 26,424 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
